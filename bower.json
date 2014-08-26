@@ -1,0 +1,11 @@
+{
+  "name": "R2ZER0/jquery.appear",
+  "version": "0.3.3",
+  "main": "jquery.appear.js",
+  "description": "",
+  "license": "MIT",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+}
